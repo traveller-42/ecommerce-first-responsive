@@ -13,9 +13,13 @@
 .firstimg{
     width: 85%;
 }
-h1, h5{
+h1{
     color: rgb(19, 14, 109);
     font-family: 'Anton', sans-serif;
+}
+h5{
+    color: rgb(19, 14, 109);
+    font-family: 'Anton', sans-serif; 
 }
 .header-my{
     font-size: 70px;
